@@ -1,9 +1,9 @@
 # whatsapp_ai_chatbot
 Create a Twilio Account
 
-Go to Twilio and sign up for an account if you don't already have one.
+"Go to Twilio and sign up for an account if you don't already have one.
 Once logged in, navigate to the Messaging section.
-Select WhatsApp messaging from the menu.
+Select WhatsApp messaging from the menu."
 
 2. Get a WhatsApp-Enabled Twilio Number
 
