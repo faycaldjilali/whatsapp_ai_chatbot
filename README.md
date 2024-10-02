@@ -21,7 +21,7 @@ Create a Twilio Account
 
     bash
 
-    pip install -r requirements.txt
+   ** pip install -r requirements.txt**
 
 5. Add Your Twilio API Keys
 
@@ -35,7 +35,7 @@ Create a Twilio Account
 
     bash
 
-    ngrok authtoken YOUR_AUTHTOKEN
+    **ngrok authtoken YOUR_AUTHTOKEN**
 
 7. Run the Application
 
@@ -43,7 +43,7 @@ Create a Twilio Account
 
     bash
 
-    python app.py
+    **python app.py**
 
 8. Expose the Application Using Ngrok
 
@@ -51,7 +51,7 @@ Create a Twilio Account
 
     bash
 
-    ngrok http YOUR_PORT_NUMBER
+    **ngrok http YOUR_PORT_NUMBER**
 
     Replace YOUR_PORT_NUMBER with the port number your application is running on (usually 5000).
 
